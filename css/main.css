@@ -1,0 +1,78 @@
+
+body{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px; line-height:18px;background:#ffffff;}
+.template{width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
+.headsection{height:120px;background:#000000;}
+.title {
+  float: left ;width:100px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+.title img{
+  width: 100px;
+  height: 100px;
+}
+.mainmenu {
+  color: #e71215;
+  float: left;
+  margin-top: 50px;
+  width: 520px;
+}
+.mainmenu a {
+  color: #b9b9b9;
+  font-weight: bold;
+  font-size: medium;
+  text-decoration: none;
+  padding-left:8px;
+  padding-right:8px;
+}
+.mainmenu a:hover, #active{color:#236ded}
+.form{
+  float: right;
+  margin-top: 40px;
+  width: 240px;
+
+}
+
+.description {
+  text-align: center;
+  background:rgb(255, 255, 255);
+  margin-top: 30px;
+  color: #ff531a;
+  font-size: xx-large;
+}
+
+
+.midimage img {
+ margin-left: 50px;
+ margin-top: 30px;
+ height: 500px;
+ width: 860px;
+}
+
+.footsection{
+  background:#272121;
+  width:960px;
+}
+.footportion {
+  color: rgb(247, 243, 243);
+  margin: 0 50px 10px 50px;
+  text-align: center;
+}
+.footportion p {
+  margin: 0;
+}
+.footportion a {
+  color: rgb(200, 75, 75);
+}
+.footportion a:hover{text-decoration:none;color:#D15D20;}
+
+
+
+
+
+
+
+
